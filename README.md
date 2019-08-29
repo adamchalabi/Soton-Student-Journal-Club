@@ -10,4 +10,4 @@ We're trialling a journal club for post-graduate students in the STAG group at t
 Many interesting topics in theoretical physics rely on a number of concepts and ideas that aren't usually covered in a masters course. For this reason we'll reserve term 1 for more foundational topics before moving on to slightly more advanced topics as the academic year goes on.
 
 # Contribute
-To contribute simply make a github account and request to be added to the list of collaborators for this repository. 
+To contribute simply create a github account and request to be added to the list of collaborators for this repository. 
