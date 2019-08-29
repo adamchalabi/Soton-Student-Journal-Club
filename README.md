@@ -11,3 +11,6 @@ Many interesting topics in theoretical physics rely on a number of concepts and 
 
 # Contribute
 To contribute simply create a github account and request to be added to the list of collaborators for this repository. 
+
+# Contact
+If you have any queries, suggestions etc. please get in touch with me (Adam). My email is a.chalabi@soton.ac.uk . I can usually be found in office 54/5016.
