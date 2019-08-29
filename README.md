@@ -10,7 +10,7 @@ We're trialling a journal club for post-graduate students in the STAG group at t
 Many interesting topics in theoretical physics rely on a number of concepts and ideas that aren't usually covered in a masters degree. For this reason we'll reserve term 1 for more foundational topics before moving on to slightly more advanced topics as the academic year goes on.
 
 # Contribute
-To contribute simply create a github account and send me an email with your username. I'll add you as a collaborator which gives you permission to edit.
+To contribute simply create a github account and send me an email with your username. I'll then send you an invite through github which you need to accept before you can edit.
 
 # Contact
 If you have any queries, suggestions etc. please get in touch with me (Adam). My email is a.chalabi@soton.ac.uk . I can usually be found in office 54/5016.
