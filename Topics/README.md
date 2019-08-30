@@ -19,6 +19,8 @@ Possible topics:
     - Shear viscosity of strongly coupled N=4 supersymmetric Yang-Mills plasma [hep-th/0104066]
     - Supergravity and a Confining Gauge Theory: Duality Cascades and χSB-Resolution of Naked Singularities [hep-th/0007191]
 
+- Branes
+
 - Chern-Simons theory
     - QFT and the Jones polynomial [Witten 1988]
     - 2 + 1 dimensional gravity as an exactly soluble system [Witten 1988]
