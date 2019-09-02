@@ -96,6 +96,14 @@ Possible topics:
     - ADHM construction [1978]
     - TASI Lectures on solitons [Tong]
 
+- String Amplitudes:
+    - The relevant bits of Polchinski or the Tong notes should work for background reading
+    - New Relations for Gauge-Theory Amplitudes [Bern, Carrasco, Johansson; 0805.3993]
+    - Perturbative Quantum Gravity as a Double Copy of Gauge Theory [Bern, Carrasco, Johansson; 1004.0476]
+    - ICTP Lectures on Covariant Quantization of the Superstring [Berkovits; 0209059]
+    - Recursive Calculations for Processes with n Gluons [Berends, Giele; 1988] 
+    - And then there's plenty of papers you can go on to read from there
+
 - String phenomenology
     - Swampland
     - KKLT
